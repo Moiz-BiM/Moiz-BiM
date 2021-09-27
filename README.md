@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MoizHaq-BiM&count_private=true&show_icons=true&theme=radical)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOIZHAQ-BIM&show_icons=true&theme=radical)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MoizHaq-BiM&theme=react&background=0d1117&border=666">
